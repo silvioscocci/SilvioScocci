@@ -1,0 +1,2 @@
+1;viveres
+2;embutidos
