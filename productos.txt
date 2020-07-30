@@ -1,0 +1,5 @@
+C005;prueba1;producto de prueba;1;5000;50
+C006;prueba2;producto de pruebita;2;5000;50
+P854;Mantequilla;Mantequilla mavesa;1;190000;50
+L974;Pepinos;Pepinos frescos;2;20000;45
+OP32;Pantalla;Pantalla para pc;1;78;5.0
